@@ -2,6 +2,7 @@
 # Email: jadeng@brandeis.edu
 # Last updated: March 13, 2019
 # Program:  Naive Bayes Classifier and Evaluation
+# currently private
 
 
 import os as os
